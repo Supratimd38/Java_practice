@@ -1,0 +1,29 @@
+•	Create an Employee class with the following attributes, i.e.
+	id, type-Integer.
+	name, type-String.
+	age, type-Integer.
+	gender, type-String.
+	department, type-String.
+	yearOfJoining, type-Integer.
+	salary, type-Double.
+Override toString () method to print employee’s full details and add parameterized constructor also.
+•	Create a class called EmployeeSolutionUsingJava8 with a main method.
+•	Create an array List of Employee object and assign following values in it.
+Refer Employee.xlsx
+
+•	Solve the following problems using Java 8 lambdas.
+	How many male and female employees are there in the organization?
+	Print the name of all departments in the organization?
+	What is the average age of male and female employees?
+	Get the details of highest paid employee in the organization?
+	Get the names of all employees who have joined after 2015?
+	Count the number of employees in each department?
+	What is the average salary of each department?
+	Get the details of youngest male employee in the product development department?
+	Who has the most working experience in the organization?
+	How many male and female employees are there in the sales and marketing team?
+	What is the average salary of male and female employees?
+	List down the names of all employees in each department?
+	What is the average salary and total salary of the whole organization?
+	Separate the employees who are younger or equal to 25 years from those employees who are older than 25 years.
+	Who is the oldest employee in the organization? What is his age and which department he belongs to?
