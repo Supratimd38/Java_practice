@@ -1,0 +1,28 @@
+1.	Given a list of integers, separate odd and even numbers.
+Input: {71, 18, 42, 21, 67, 32, 95, 14, 56, 87}
+
+2.	Remove duplicate elements from a list using Java 8 streams.
+Input: {"Java", "Python", "C#", "Java", "Kotlin", "Python"}
+
+3.	Find frequency of each element in an array or a list.
+Input: {"Pen", "Eraser", "Notebook", "Pen", "Pencil", "Stapler", "Notebook", "Pencil", "Pen"}
+
+4.	Sort the given list of decimals in reverse order (higher to lower).
+Input: {12.45, 23.58, 17.13, 42.89, 33.78, 71.85, 56.98, 21.12}
+
+5.	Find second largest number in an integer array.
+Input: {45, 12, 56, 15, 24, 75, 31, 89}
+
+6.	Given a list of strings, sort them according to increasing order of their length.
+Input: {"Java", "Python", "C#", "HTML", "Kotlin", "C++", "COBOL", "C"}
+
+7.	Take two strings from the user and check if two strings are anagrams or not.
+(Any word or phrase that exactly reproduces the letters in another order is an anagram.)
+
+8.	Take an integer from the user and find sum of all digits of that number.
+
+9.	Given a list of strings, find out those strings which start with a number.
+Input: {"One", "2wo", "3hree", "Four", "5ive", "Six"}
+
+10.	 Find first non-repeated character in a string.
+Input: This is a java assignment.
